@@ -1,25 +1,23 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Blood Rivers",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Denizens of Hell",
+		"cost": 220,
+		"happiness": 20,
+		"culture": 36,
+		"science": 20,
+		"maintenance": 60,
+		"requiredTech": "The Wheel"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
+		"name": "Deal Maker",
+		"replaces": "Market",
+		"uniqueTo": "Denizens of Hell",
+		"cost": 40,
 		"hurryCostModifier": 160,
-		"happiness": 2,
+		"happiness": 10,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"requiredTech": "Philosophy"
 	}
 ]
