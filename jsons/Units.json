@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
+		"name": "Devil",
+		"unitType": "Melee",
+		"uniqueTo": "Denizens of Hell",
+		"replaces": "Warrior",
+		"movement": 6,
 		"strength": 90,
-		"rangedStrength": 36,
+		"rangedStrength": 60,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"cost": 620,
+		"requiredTech": "Pottery",
+		"requiredResource": 
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
